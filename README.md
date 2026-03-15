@@ -3,7 +3,12 @@
 A high-end, pixel-perfect luxury watch landing page built with a focus on modern aesthetics, sophisticated typography, and seamless responsiveness.
 
 ## 🚀 Live Demo
-[Paste your GitHub Pages link here]
+## 🚀 Live Demo
+
+You can view the live website here:  
+[**🌐 Visit ESTIR LUXE Live Site**](https://ritesh-builds-dev.github.io/estir-luxe-watch/)
+
+---
 
 ## 📋 Project Overview
 ESTIR WATCH is a front-end masterpiece designed to showcase luxury timepieces. The project emphasizes visual storytelling through clean layouts and interactive elements, ensuring a premium user experience across all devices.
