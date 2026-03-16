@@ -304,7 +304,8 @@
 .brands .brand-logos .brand4:hover {
     cursor: pointer;
     padding-top: 10px;
-    transform: scale(1.025);;
+    transform: scale(1.025);
+    transform: translateY(-10px);
     transition: all 0.3s ease;
 }
 
@@ -312,7 +313,8 @@
 .brands .brand-logos .brand2 img:hover,
 .brands .brand-logos .brand3 img:hover,
 .brands .brand-logos .brand4 img:hover {
-    box-shadow: 30px 40px 15px rgba(0, 0, 0, 0.24);
+box-shadow: 30px 40px 15px rgba(0, 0, 0, 0.24);
+    transform: translateY(-10px) ;
     transition: all 0.3s ease;
 }
 
