@@ -313,7 +313,6 @@
 .brands .brand-logos .brand3 img:hover,
 .brands .brand-logos .brand4 img:hover {
     box-shadow: 30px 40px 15px rgba(0, 0, 0, 0.24);
-    transform: translateY(-10px) scale(1.02);
     transition: all 0.3s ease;
 }
 
