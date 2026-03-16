@@ -3,7 +3,6 @@
 A high-end, pixel-perfect luxury watch landing page built with a focus on modern aesthetics, sophisticated typography, and seamless responsiveness.
 
 ## 🚀 Live Demo
-## 🚀 Live Demo
 
 You can view the live website here: [**🌐 Visit ESTIR LUXE Live Site**](https://ritesh-builds-dev.github.io/estir-luxe-watch/)
 
